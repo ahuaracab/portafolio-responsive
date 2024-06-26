@@ -14,4 +14,4 @@
 
 ### Angelo Huaraca
 
-### Linkedin: https://www.linkedin.com/in/ahuaracab
+### LinkedIn: https://www.linkedin.com/in/ahuaracab
