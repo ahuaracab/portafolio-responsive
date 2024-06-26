@@ -10,7 +10,7 @@
 
 - Flex-box
 
-### Despliegue:
+## Despliegue:
 
 https://ahuaracab.github.io/portafolio-responsive/
 
