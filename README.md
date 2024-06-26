@@ -10,12 +10,12 @@
 
 - Flex-box
 
+### Despliegue:
+
+https://ahuaracab.github.io/portafolio-responsive/
+
 ## Hecho por:
 
 ### Angelo Huaraca
 
 ### LinkedIn: https://www.linkedin.com/in/ahuaracab
-
-### Despliegue: https://ahuaracab.github.io/portafolio-responsive/
-
-
