@@ -16,4 +16,4 @@
 
 ### Linkedin
 
-https://www.linkedin.com/in/ahuaracab/{:target="_blank"} https://www.linkedin.com/in/ahuaracab/
+Enlace{:target="_blank"} https://www.linkedin.com/in/ahuaracab/
