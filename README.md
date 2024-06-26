@@ -12,8 +12,8 @@
 
 ## Hecho por:
 
-###Angelo Huaraca
+### Angelo Huaraca
 
 ### Linkedin
 
-<a href="https://www.linkedin.com/in/ahuaracab/" target="_blank">Enlace</a>
+[Enlace](https://www.linkedin.com/in/ahuaracab){:target="\_blank"}
