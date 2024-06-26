@@ -12,7 +12,8 @@
 
 ## Despliegue:
 
-https://ahuaracab.github.io/portafolio-responsive/
+- GitHub Pages: https://ahuaracab.github.io/portafolio-responsive/
+- Vercel: https://portafolio-responsive-rho.vercel.app/
 
 ## Hecho por:
 
