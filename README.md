@@ -16,4 +16,4 @@
 
 ### Linkedin
 
-<a href="https://www.linkedin.com/in/ahuaracab/" target="_blank">https://www.linkedin.com/in/ahuaracab/</a>
+<a href="https://www.linkedin.com/in/ahuaracab/" target="_blank">Enlace</a>
